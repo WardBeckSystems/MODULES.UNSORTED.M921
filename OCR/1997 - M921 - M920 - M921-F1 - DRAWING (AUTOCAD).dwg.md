@@ -1,5 +1,5 @@
 # 1997 - M921 - M920 - M921-F1 - DRAWING (AUTOCAD).dwg
-Wiki page: [M921](../../../PAGES/M921.md)
+Wiki page: [M921](../../../../PAGES/M921.md)
 
 
 - **Year:** 1997 (original file date 1997-05-12)
@@ -625,7 +625,7 @@ SSSW(
 
 ```json
 {
- "file": "Modules/UNSORTED/M921/1997 - M921 - M920 - M921-F1 - DRAWING (AUTOCAD).dwg",
+ "file": "Modules/UNSORTED/M921/MECHANICAL/1997 - M921 - M920 - M921-F1 - DRAWING (AUTOCAD).dwg",
  "sha256": "bdf7b6395f4237a30e0830247601ffb3020480f9531380d9206c92cd074798e9",
  "kind": "module",
  "models": [
