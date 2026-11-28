@@ -1,5 +1,5 @@
 # 1997 - M921 - M920 - M921-F1 - DRAWING (AUTOCAD).dwg
-Wiki page: [M921](../../../../PAGES/M921.md)
+Wiki page: [M921](../)
 
 
 - **Year:** 1997 (original file date 1997-05-12)

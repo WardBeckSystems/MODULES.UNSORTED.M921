@@ -1,6 +1,6 @@
 # M921 · Renaissance
 
-Ward-Beck Systems M921, 1996|29. Wiki page: [M921 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M921.html)
+Ward-Beck Systems M921, 1996|29. Wiki page: [M921 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M921/)
 
 | Folder | What is in it | Files |
 |---|---|---|
