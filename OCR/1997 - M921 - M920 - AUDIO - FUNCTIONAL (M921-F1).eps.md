@@ -15,7 +15,7 @@ Wiki page: [M921](../../../../PAGES/M921.md)
 
 ```json
 {
- "file": "Modules/UNSORTED/M921/SCHEMATICS/1997 - M921 - M920 - AUDIO - FUNCTIONAL (M921-F1).eps",
+ "file": "Modules/RENAISSANCE/M921/SCHEMATICS/1997 - M921 - M920 - AUDIO - FUNCTIONAL (M921-F1).eps",
  "sha256": "03b7eb63a65b5539c1147522fb6ca4baaec923e095caf9b5fe92f6d06e702548",
  "kind": "module",
  "models": [
