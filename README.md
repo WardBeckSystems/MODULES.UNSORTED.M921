@@ -21,10 +21,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [PCB 14-325 - M921](KICAD/PCB%2014-325%20-%20M921)
 - [index.html](KICAD/index.html)
 
-## Software
-
-- [index.html](SOFTWARE/index.html)
-
 ## 3-D model
 
 [`MECHANICAL/M921.stl`](MECHANICAL/M921.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M921)
